@@ -1,6 +1,6 @@
 ---
 applications:
-- name: springcounter-suf
+- name: spring-counter-suf
   memory: 256M
   instances: 1
   host: spring-counter-suf
