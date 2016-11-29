@@ -1,0 +1,7 @@
+---
+applications:
+- name: springcounter-suf
+  memory: 256M
+  instances: 1
+  host: spring-counter-suf
+  path: ./build/libs/SpringCounter-0.0.1-SNAPSHOT.jar
